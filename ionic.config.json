@@ -1,0 +1,7 @@
+{
+  "name": "monster-castle",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
